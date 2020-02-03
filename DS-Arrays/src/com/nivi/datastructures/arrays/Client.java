@@ -1,4 +1,4 @@
-package com.nivi.datastructures;
+package com.nivi.datastructures.arrays;
 
 public class Client {
 

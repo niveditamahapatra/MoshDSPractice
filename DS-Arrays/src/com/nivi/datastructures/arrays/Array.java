@@ -1,4 +1,4 @@
-package com.nivi.datastructures;
+package com.nivi.datastructures.arrays;
 
 import java.util.ArrayList;
 import java.util.Arrays;
